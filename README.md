@@ -1,5 +1,14 @@
 # RFID-based Door Access Control System
 
+## Contributors
+
+Thanks to the following people who have contributed to this project:
+
+- [Aritra-Dey-117-XT](https://github.com/Aritra-Dey-117-XT)
+- [audrijaishere](https://github.com/audrijaishere)
+- [Saumyadip Kundu](https://github.com/Saumyadipkundu2101)
+- [Riyansh Jain](https://github.com/RJ-04)
+
 This Arduino-based project is designed to control access to a secured area using an RFID card system. The system includes an RFID reader, an LCD display, a servo motor for door control, and LED and buzzer indicators for access status.
 
 Demo video:- [https://youtu.be/72wSdquTCw4](https://youtu.be/72wSdquTCw4)

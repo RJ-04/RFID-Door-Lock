@@ -2,6 +2,8 @@
 
 This Arduino-based project is designed to control access to a secured area using an RFID card system. The system includes an RFID reader, an LCD display, a servo motor for door control, and LED and buzzer indicators for access status.
 
+Demo video:- [https://youtu.be/72wSdquTCw4](https://youtu.be/72wSdquTCw4)
+
 ## Components Used
 - **Arduino Uno**
 - **RFID Reader (MFRC522)**
